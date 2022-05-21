@@ -6,6 +6,8 @@ h1{
     font-size: 14px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.third{
+h3{
+    font-size: 16px;
+    color: red;.third{
     color: blue;
 }
